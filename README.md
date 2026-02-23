@@ -22,16 +22,16 @@
 ### 👨‍💻 About Me
 I am an **AI Developer and Full-Stack Engineer** with a deep focus on **Generative AI**, **LLM Integration**, and **RAG pipelines**. I specialize in building production-grade ML systems and complex business automations that bridge the gap between advanced AI models and real-world utility.
 
-As a **Software Engineering** graduate from **AIUB**, I architect high-performance, full-stack ecosystems. My expertise spans building scalable backends using **ASP.NET Core**, **Node.js (Nest.js)**, and **Django**, seamlessly integrated with modern frontend architectures powered by **Next.js**, **React.js**, **TypeScript**, and **Tailwind CSS**.
+As a **Software Engineering** graduate from **AIUB**, I architect high-performance, full-stack ecosystems. My expertise spans building scalable backends using **ASP.NET Core**, **Node.js (Nest.js)**, and **Django**. These are seamlessly integrated with modern, high-performance frontend architectures powered by **Next.js**, **React.js**, **TypeScript**, and **Tailwind CSS** to deliver exceptional user experiences.
+
+I drive operational excellence by engineering **MLOps** environments and **CI/CD pipelines**, utilizing **n8n** to connect **Large Language Models** with core business systems for measurable impact.
 
 ---
 
 ### 🛠️ Technical Arsenal
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="8">
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,php,dotnet,django,nodejs,nestjs,react,nextjs,redux,tailwind,html,css,postgres,mysql,oracle,sqlite,aws,azure,docker,github,git,postman,figma&theme=dark" />
-  </marquee>
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,php,dotnet,django,nodejs,nestjs,react,nextjs,redux,tailwind,html,css,postgres,mysql,oracle,sqlite,aws,azure,docker,github,git,postman,figma&perline=50&theme=dark" />
+</marquee>
 
 | Category | Technologies |
 | :--- | :--- |
