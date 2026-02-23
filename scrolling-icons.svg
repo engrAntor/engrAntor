@@ -1,7 +1,7 @@
-<svg width="1600" height="532" xmlns="http://www.w3.org/2000/svg">
+<svg width="1600" height="522" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="clip">
-      <rect width="1600" height="532" />
+      <rect width="1600" height="522" />
     </clipPath>
   </defs>
   <style>
@@ -10,12 +10,12 @@
     }
     @keyframes scroll-left {
       0% { transform: translateX(0); }
-      100% { transform: translateX(-16912px); }
+      100% { transform: translateX(-16762px); }
     }
   </style>
   <g clip-path="url(#clip)">
     <g class="scroll-group">
-      <g transform="translate(0, 10) scale(2.0)">
+      <g transform="translate(0, 5) scale(2.0)">
         <svg width="1566.75" height="48" viewBox="0 0 8356 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
     
         <g transform="translate(0, 0)">
@@ -200,7 +200,7 @@
         
   </svg>
       </g>
-      <g transform="translate(16912, 10) scale(2.0)">
+      <g transform="translate(16762, 5) scale(2.0)">
         <svg width="1566.75" height="48" viewBox="0 0 8356 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
     
         <g transform="translate(0, 0)">
@@ -385,7 +385,7 @@
         
   </svg>
       </g>
-      <g transform="translate(33824, 10) scale(2.0)">
+      <g transform="translate(33524, 5) scale(2.0)">
         <svg width="1566.75" height="48" viewBox="0 0 8356 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
     
         <g transform="translate(0, 0)">
