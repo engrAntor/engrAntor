@@ -52,8 +52,8 @@ I drive operational excellence by engineering **MLOps** environments and **CI/CD
 
 ### 📈 GitHub Ecosystem
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=engrAntor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrAntor&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=engrAntor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=engrAntor&layout=compact&theme=tokyonight" />
 </p>
 
 ---
