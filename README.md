@@ -13,41 +13,41 @@
 ---
 
 ### 👨‍💻 About Me
-[cite_start]I am an **AI Developer and Full-Stack Engineer** with a deep focus on **Generative AI**, **LLM Integration**, and **RAG pipelines**[cite: 10, 13]. [cite_start]I specialize in building production-grade ML systems and complex business automations that bridge the gap between advanced AI models and real-world utility[cite: 11, 14].
+I am an **AI Developer and Full-Stack Engineer** with a deep focus on **Generative AI**, **LLM Integration**, and **RAG pipelines**. I specialize in building production-grade ML systems and complex business automations that bridge the gap between advanced AI models and real-world utility.
 
-[cite_start]As a **Software Engineering** graduate from **AIUB**, I architect high-performance, full-stack ecosystems[cite: 28, 29]. [cite_start]My expertise spans building scalable backends using **ASP.NET Core**, **Node.js (Nest.js)**, and **Django**[cite: 23]. [cite_start]These are seamlessly integrated with modern frontend architectures powered by **Next.js**, **React.js**, **TypeScript**, and **Tailwind CSS** to deliver exceptional user experiences[cite: 12, 24].
+As a **Software Engineering** graduate from **AIUB**, I architect high-performance, full-stack ecosystems. My expertise spans building scalable backends using **ASP.NET Core**, **Node.js (Nest.js)**, and **Django**. These are seamlessly integrated with modern frontend architectures powered by **Next.js**, **React.js**, **TypeScript**, and **Tailwind CSS** to deliver exceptional user experiences.
 
-[cite_start]I drive operational excellence by engineering **MLOps** environments and **CI/CD pipelines**, utilizing **n8n** to connect Large Language Models with core business systems for measurable impact[cite: 14, 22].
+I drive operational excellence by engineering **MLOps** environments and **CI/CD pipelines**, utilizing **n8n** to connect Large Language Models with core business systems for measurable impact.
 
 ---
 
 ### 🛠️ Technical Arsenal
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,ts,js,java,php,cpp,dotnet,nodejs,nestjs,django,react,nextjs,redux,tailwind,svg,html,css&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mssql,oracle,sqlite,aws,azure,docker,github,git,postman,figma&theme=dark" />
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="10">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,php,dotnet,django,nodejs,nestjs,react,nextjs,redux,tailwind,html,css,postgres,mysql,oracle,sqlite,aws,azure,docker,github,git,postman,figma&theme=dark" />
+</marquee>
 
 | Category | Technologies |
 | :--- | :--- |
-| **AI & MLOps** | [cite_start]Generative AI, RAG Pipelines, FAISS, LLM Integration, n8n Automation [cite: 13, 14, 21] |
-| **Backend** | [cite_start]ASP.NET Core, .NET Framework, Node.js (Nest.js), Django, Entity Framework, LINQ [cite: 23] |
-| **Databases** | [cite_start]SQL Server, PostgreSQL, MySQL, Oracle 10g, PL/SQL, SQLite [cite: 25, 48] |
-| **Frontend** | [cite_start]React.js, Next.js, Redux, Tailwind CSS, shadcn/ui, Material UI [cite: 24] |
-| **Infrastructure** | [cite_start]Docker, AWS, Azure, CI/CD Pipelines, Git, GitHub [cite: 22] |
+| **Programming Languages** | Python, C++, C#, Java, JavaScript (ES6+), TypeScript, PHP |
+| **Automation & AI** | n8n, Generative AI, LLM Integration, Data Structures & Algorithms |
+| **Cloud & DevOps** | AWS, Azure, CI/CD, Docker, Git, GitHub |
+| **Backend & Frameworks** | Django, ASP.NET Core, .NET Framework, Node.js, Nest.js, Entity Framework, LINQ |
+| **Frontend Technologies** | React.js, Next.js, Redux, Tailwind CSS, Material UI, shadcn/ui, DaisyUI, HTML5, CSS3 |
+| **Databases** | Microsoft SQL Server, PostgreSQL, MySQL, Oracle SQL, PL/SQL, SQLite, SQL Alchemy |
+| **Tools & Environment** | Postman, Visual Studio, VS Code, IntelliJ IDEA, PgAdmin, Figma |
 
 ---
 
 ### 🧪 Key Architectural Contributions
 
 #### 🤖 **AI & Automation Ecosystems**
-* [cite_start]**Production RAG Pipelines:** Architected AI chatbot integrations for web/mobile platforms using FAISS and RAG methodologies[cite: 13].
-* [cite_start]**Workflow Orchestration:** Designed complex n8n automations to connect LLMs with business systems, driving operational efficiency[cite: 14].
+* **Production RAG Pipelines:** Architected AI chatbot integrations for web/mobile platforms using FAISS and RAG methodologies.
+* **Workflow Orchestration:** Designed complex n8n automations to connect LLMs with business systems, driving operational efficiency.
 
 #### 🌐 **Full-Stack Systems**
-* [cite_start]**Learning Management System:** Built a high-performance LMS with Next.js and Nest.js, featuring AI chatbot agents, course tracking, and integrated payments (Stripe/bKash)[cite: 38, 39].
-* [cite_start]**Recipe Sharing Platform:** Developed a secure 3-tier social platform with personalized feeds using ASP.NET Web API and JWT authentication[cite: 42, 43].
-* [cite_start]**Enterprise Database Management:** Implemented an International Trade Fair Management System using Oracle 10g and PL/SQL[cite: 48, 49].
+* **Learning Management System:** Built a high-performance LMS with Next.js and Nest.js, featuring AI chatbot agents, course tracking, and integrated payments (Stripe/bKash).
+* **Recipe Sharing Platform:** Developed a secure 3-tier social platform with personalized feeds using ASP.NET Web API and JWT authentication.
+* **Enterprise Database Management:** Implemented an International Trade Fair Management System using Oracle 10g and PL/SQL.
 
 ---
 
@@ -60,9 +60,9 @@
 ---
 
 ### 📬 Let's Connect
-* [cite_start]**Portfolio:** [engrantorportfolio.netlify.app](https://engrantorportfolio.netlify.app/) 
-* [cite_start]**LinkedIn:** [linkedin.com/in/engr-antor](https://www.linkedin.com/in/engr-antor) [cite: 3]
-* [cite_start]**Email:** [engr.antor.3@gmail.com](mailto:engr.antor.3@gmail.com) [cite: 7]
+* **Portfolio:** [engrantorportfolio.netlify.app](https://engrantorportfolio.netlify.app/)
+* **LinkedIn:** [linkedin.com/in/engr-antor](https://www.linkedin.com/in/engr-antor)
+* **Email:** [engr.antor.3@gmail.com](mailto:engr.antor.3@gmail.com)
 
 ---
 <p align="center">
