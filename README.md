@@ -50,6 +50,20 @@ I drive operational excellence by engineering **MLOps** environments and **CI/CD
 
 ---
 
+### 💼 Professional Experience
+
+#### **AI Developer & Full-Stack Engineer** | *Sparktech IT LTD*
+* **Architected and deployed production-grade ML systems** and **RAG pipelines**, integrating advanced AI chatbots into web and mobile applications.
+* **Engineered high-performance backends** using **Node.js (Nest.js)** and **Django**, seamlessly connected to modern **Next.js** and **TypeScript** frontends.
+* **Optimized business operations** by designing complex **n8n automations** to bridge Large Language Models with core enterprise systems.
+* **Built scalable database architectures** leveraging **SQL Server**, **PostgreSQL**, and **MySQL** to support data-intensive AI applications.
+
+#### **Academic Tutor** | *American International University-Bangladesh (AIUB)*
+* **Provided technical mentorship** to junior CSE students in core fundamentals, including **Data Structures**, **Algorithms**, and **OOP**.
+* **Guided students through full-stack development workflows**, ensuring mastery of modern software engineering principles and best practices.
+
+---
+
 ### 📈 GitHub Ecosystem
 <p align="left">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=engrAntor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
