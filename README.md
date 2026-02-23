@@ -30,7 +30,7 @@ I drive operational excellence by engineering **MLOps** environments and **CI/CD
 
 ### 🛠️ Technical Arsenal
 <p align="center">
-  <a href="https://github.com/engrAntor"><img src="https://cdn.jsdelivr.net/gh/engrAntor/engrAntor@b2022ec/scrolling-icons.svg" alt="Tech Stack" /></a>
+  <a href="https://github.com/engrAntor"><img src="https://cdn.jsdelivr.net/gh/engrAntor/engrAntor@a12f57c/scrolling-icons.svg" alt="Tech Stack" /></a>
 </p>
 
 | Category | Technologies |
