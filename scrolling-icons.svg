@@ -1,0 +1,22 @@
+<svg width="800" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="clip">
+      <rect width="800" height="50" rx="4" />
+    </clipPath>
+  </defs>
+  <style>
+    .scroll-group {
+      animation: scroll-left 25s linear infinite;
+    }
+    @keyframes scroll-left {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-1456px); }
+    }
+  </style>
+  <g clip-path="url(#clip)">
+    <g class="scroll-group">
+      <image href="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,php,dotnet,django,nodejs,nestjs,react,nextjs,redux,tailwind,html,css,postgres,mysql,oracle,sqlite,aws,azure,docker,github,git,postman,figma&amp;perline=50&amp;theme=dark" x="0" y="1" height="48" width="1456" />
+      <image href="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,php,dotnet,django,nodejs,nestjs,react,nextjs,redux,tailwind,html,css,postgres,mysql,oracle,sqlite,aws,azure,docker,github,git,postman,figma&amp;perline=50&amp;theme=dark" x="1456" y="1" height="48" width="1456" />
+    </g>
+  </g>
+</svg>
