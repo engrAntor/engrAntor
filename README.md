@@ -29,7 +29,7 @@ I drive operational excellence by engineering **MLOps** environments and **CI/CD
 ---
 
 ### 🛠️ Technical Arsenal
-<a href="https://github.com/engrAntor"><img src="https://cdn.jsdelivr.net/gh/engrAntor/engrAntor@11cab14/scrolling-icons.svg" alt="Tech Stack" /></a>
+<a href="https://github.com/engrAntor"><img src="https://cdn.jsdelivr.net/gh/engrAntor/engrAntor@7bafebe/scrolling-icons.svg" alt="Tech Stack" /></a>
 | Category | Technologies |
 | :--- | :--- |
 | **Programming Languages** | Python, C++, C#, Java, JavaScript (ES6+), TypeScript, PHP |
