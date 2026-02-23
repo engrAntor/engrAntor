@@ -30,7 +30,7 @@ I drive operational excellence by engineering **MLOps** environments and **CI/CD
 
 ### 🛠️ Technical Arsenal
 <p align="center">
-  <img src="./scrolling-icons.svg" width="800" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,php,dotnet,django,nodejs,nestjs,react,nextjs,redux,tailwind,html,css,postgres,mysql,oracle,sqlite,aws,azure,docker,github,git,postman,figma&perline=14&theme=dark" />
 </p>
 
 | Category | Technologies |
