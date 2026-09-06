@@ -65,12 +65,16 @@ I drive operational excellence by engineering **MLOps** environments and **CI/CD
 ---
 
 ### 📈 GitHub Ecosystem
-<p align="left">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=engrAntor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=engrAntor&layout=compact&theme=tokyonight" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engrAntor&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrAntor&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
----
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engrAntor&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=engrAntor&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
