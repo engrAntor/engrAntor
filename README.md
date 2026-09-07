@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>Focused on</b> LLM fine-tuning, Retrieval-Augmented Generation (RAG), and building <b>scalable AI systems</b>.<br/>
-  <b>Specialized in</b> Python/Django, .NET Core 9, Node.js(Nest.js), and modern web technologies.
+  Specialized in <b>Python/Django</b>b>,<b> .NET Core 9</b>b>,<b> Node.js(Nest.js)</b>b>, and modern web technologies.
 </p>
 
 <p align="center">
