@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>Focused on</b> LLM fine-tuning, Retrieval-Augmented Generation (RAG), and building <b>scalable AI systems</b>.<br/>
-  <b>Specialized in</b> Python/Django, .NET Core, Node.js/Nest.js, and modern web technologies.
+  <b>Specialized in</b> Python/Django, .NET Core 9, Node.js(Nest.js), and modern web technologies.
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
 ---
 
 ### 👨‍💻 About Me
-I am an **AI Developer and Full-Stack Engineer** with a deep focus on **Generative AI**, **LLM Integration**, and **RAG pipelines**. I specialize in building production-grade ML systems and complex business automations that bridge the gap between advanced AI models and real-world utility.
+I am an **AI Developer and Full-Stack Engineer** with a deep focus on **Generative AI**, **LLM Integration**, **Fine-Tuning** and **RAG pipelines**. I specialize in building production-grade ML systems and complex business automations that bridge the gap between advanced AI models and real-world utility.
 
-As a **Software Engineering** graduate from **AIUB**, I architect high-performance, full-stack ecosystems. My expertise spans building scalable backends using **ASP.NET Core**, **Node.js (Nest.js)**, and **Django**. These are seamlessly integrated with modern, high-performance frontend architectures powered by **Next.js**, **React.js**, **TypeScript**, and **Tailwind CSS** to deliver exceptional user experiences.
+As a **Software Engineering** graduate from **AIUB**, I architect high-performance, full-stack ecosystems. My expertise spans building scalable backends using **ASP.NET Core**, **Node.js (Nest.js)**, and **Django REST Framework/Fast API**. These are seamlessly integrated with modern, high-performance frontend architectures powered by **Next.js**, **React.js**, **TypeScript**, and **Tailwind CSS** to deliver exceptional user experiences.
 
 I drive operational excellence by engineering **MLOps** environments and **CI/CD pipelines**, utilizing **n8n** to connect **Large Language Models** with core business systems for measurable impact.
 
