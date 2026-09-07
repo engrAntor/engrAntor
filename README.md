@@ -2,12 +2,12 @@
   <img src="https://engrantorportfolio.netlify.app/antor-profile.jpeg" width="200" height="200" style="border-radius: 20px; border: 4px solid #7928ca; box-shadow: 0 4px 20px rgba(121, 40, 202, 0.4);" alt="Antor Chandra Das" />
 </p>
 
-<h1 align="center" style="color: #9c27b0;">Antor Chandra Das</h1>
-<p align="center" style="font-size: 1.2em; font-weight: bold; color: #3f51b5;">AI Developer & Full-Stack Engineer</p>
+<h1 align="center">Antor Chandra Das</h1>
+<h3 align="center">AI Engineer & Full-Stack Developer</h3>
 
 <p align="center">
-  <i>Passionate about leveraging <strong style="color: #00bcd4;">Generative AI</strong> to create efficient, scalable systems.<br>
-  Specialized in <strong style="color: #4caf50;">Python/Django</strong>, <strong style="color: #673ab7;">.NET</strong>, <strong style="color: #ff9800;">Node.js</strong>, and modern web technologies.</i>
+  Focused on LLM fine-tuning, Retrieval-Augmented Generation (RAG), and building scalable AI systems.<br/>
+  Specialized in Python/Django, .NET Core, Node.js/Nest.js, and modern web technologies.
 </p>
 
 <p align="center">
