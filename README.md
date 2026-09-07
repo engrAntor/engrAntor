@@ -3,11 +3,14 @@
 </p>
 
 <h1 align="center">Antor Chandra Das</h1>
-<h3 align="center">AI Engineer & Full-Stack Developer</h3>
 
 <p align="center">
-  Focused on LLM fine-tuning, Retrieval-Augmented Generation (RAG), and building scalable AI systems.<br/>
-  Specialized in Python/Django, .NET Core, Node.js/Nest.js, and modern web technologies.
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Full-Stack+Developer;LLM+Fine-Tuning+%7C+RAG+%7C+Scalable+AI+Systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>Focused on</b> LLM fine-tuning, Retrieval-Augmented Generation (RAG), and building <b>scalable AI systems</b>.<br/>
+  <b>Specialized in</b> Python/Django, .NET Core, Node.js/Nest.js, and modern web technologies.
 </p>
 
 <p align="center">
