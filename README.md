@@ -36,11 +36,11 @@ I drive operational excellence by engineering **MLOps** environments and **CI/CD
 | Category | Technologies |
 | :--- | :--- |
 | **Programming Languages** | Python, C++, C#, Java, JavaScript (ES6+), TypeScript, PHP |
-| **Automation & AI** | n8n, Generative AI, LLM Integration, Data Structures & Algorithms |
+| **Automation & AI** | n8n, Generative AI, Fine-Tuning, LLM Integration, MLOps, TensorFlow, PyTorch, Langchain, Rag, FAISS, Data Scraping, Numpy . |
 | **Cloud & DevOps** | AWS, Azure, CI/CD, Docker, Git, GitHub |
-| **Backend & Frameworks** | Django, ASP.NET Core, .NET Framework, Node.js, Nest.js, Entity Framework, LINQ |
-| **Frontend Technologies** | React.js, Next.js, Redux, Tailwind CSS, Material UI, shadcn/ui, DaisyUI, HTML5, CSS3 |
-| **Databases** | Microsoft SQL Server, PostgreSQL, MySQL, Oracle SQL, PL/SQL, SQLite, SQL Alchemy |
+| **Backend & Frameworks** | Django REST Framework, Celery, ASP.NET Core, Entity Framework Core, LINQ, Node.js, Nest.js, Type ORM |
+| **Frontend Technologies** | React.js, Next.js, Vue.js, Angular.js, Redux, Tailwind CSS, Material UI, shadcn/ui, DaisyUI, HTML5, CSS3 |
+| **Databases** | Microsoft SQL Server, PostgreSQL, MySQL, Oracle SQL, PL/SQL, SQLite, SQL Alchemy, Redis(Caching & Message Broker) |
 | **Tools & Environment** | Postman, Visual Studio, VS Code, IntelliJ IDEA, PgAdmin, Figma |
 
 ---
